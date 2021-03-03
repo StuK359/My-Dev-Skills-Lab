@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+    width:500px;
+    margin: 0 auto;
+    background: darkgray;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+}
+
+h2 {
+    width:500px;
+    margin: 0 auto;
+    background: darkslategrey;
+    color: antiquewhite;
+    text-align: left;
+    padding-left: 10%;
+}
+p {
+    margin: 5% auto;
+    padding: 0 100px 0 150px;
+    text-align: justify;
+    align-items: baseline;
+    word-wrap: break-word;
+}
+div {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
